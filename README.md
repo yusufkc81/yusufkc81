@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Yusuf 👋
 
-<!--
-**yusufkc81/yusufkc81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior developer focused on building web projects and improving myself in frontend development.
 
-Here are some ideas to get you started:
+## Technologies I have worked with
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- SCSS
+- C#
+- Web API (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I am currently focusing on
+- Building stronger frontend projects
+- Improving JavaScript fundamentals
+- Learning backend development with C# and Web API
+- Creating portfolio-ready projects for job applications
+
+## Featured repositories
+- **ReCarProjects** → C# layered architecture practice project
+- **egitim-sadik-turan** → HTML, CSS, Bootstrap and JavaScript training notes/projects
+- **uygulamalar** → small practice applications such as admin panel, e-commerce, quiz app and shopping list
+
+## Goals
+- Get my first developer job
+- Build real-world projects
+- Improve my GitHub profile and portfolio
